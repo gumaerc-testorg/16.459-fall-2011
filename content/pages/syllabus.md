@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an overview of the weekly meetings of the course
+  and information on meeting times and expectations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9ad42518-5943-c1e5-96c2-cf7e81580354
 ---

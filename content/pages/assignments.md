@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on and assignment to present and discuss
+  a journal article.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d4f30fe7-b362-0f1c-cdb0-5fe5e60979fe
 ---
