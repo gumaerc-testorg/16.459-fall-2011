@@ -33,7 +33,7 @@ ARTICLES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Philip, Pierre, Patricia Sagaspe, et al. "[Fatigue, Sleep Restriction and Driving Performance](http://www.ncbi.nlm.nih.gov/pubmed/15784201)." _Accident Analysis and Prevention_ 37, no. 3 (2005): 473–8.
+Philip, Pierre, Patricia Sagaspe, et al. "{{% resource_link "9fa3ca01-c5fa-4d80-9abd-7040ad9812fe" "Fatigue, Sleep Restriction and Driving Performance" %}}." _Accident Analysis and Prevention_ 37, no. 3 (2005): 473–8.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Philip, Pierre, Patricia Sagaspe, et al. "[Fatigue, Sleep Restriction and Drivin
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Basner, Mathias, and David F. Dinges. "[Maximizing Sensitivity of the Psychomotor Vigilance Test (PVT) to Sleep Loss](http://www.ncbi.nlm.nih.gov/pubmed/21532951)." _SLEEP_ 34, no. 5 (2011): 581–91.
+Basner, Mathias, and David F. Dinges. "{{% resource_link "934886af-17b5-447f-ac2c-5ce8f77c3b6c" "Maximizing Sensitivity of the Psychomotor Vigilance Test (PVT) to Sleep Loss" %}}." _SLEEP_ 34, no. 5 (2011): 581–91.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Basner, Mathias, and David F. Dinges. "[Maximizing Sensitivity of the Psychomoto
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Baulk, S. D., S. N. Biggs, et al. "[Chasing the Silver Bullet: Measuring Driver Fatigue Using Simple and Complex Tasks](http://dx.doi.org/10.1016/S0009-2541(99)00083-2)." _Accident Analysis and Prevention_ 40, no. 1 (2008): 396–402.
+Baulk, S. D., S. N. Biggs, et al. "{{% resource_link "1a8adb97-3996-4966-995f-ebb9726f11ae" "Chasing the Silver Bullet: Measuring Driver Fatigue Using Simple and Complex Tasks" %}}." _Accident Analysis and Prevention_ 40, no. 1 (2008): 396–402.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ Baulk, S. D., S. N. Biggs, et al. "[Chasing the Silver Bullet: Measuring Driver 
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reddig, M., K. Tanaka, et al. "[Physiological Limits of Underpressure and Overpressure for Mechanical Counter Pressure Suits](http://papers.sae.org/2003-01-2444/)." _Society of Automotive Engineers Technical Paper_ 2003–01–2444, 2003.
+Reddig, M., K. Tanaka, et al. "{{% resource_link "e273160b-ce21-4e84-87ef-0a9868e2754a" "Physiological Limits of Underpressure and Overpressure for Mechanical Counter Pressure Suits" %}}." _Society of Automotive Engineers Technical Paper_ 2003–01–2444, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Reddig, M., K. Tanaka, et al. "[Physiological Limits of Underpressure and Overpr
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Sulkowski, Christina M., Kelly M. Gilkey, et al. "[An Extravehicular Suit Impact Load Attenuation Study to Improve Astronaut Bone Fracture Prediction](http://www.ingentaconnect.com/content/asma/asem/2011/00000082/00000004/art00007)." _Aviation, Space, and Environmental Medicine_ 82, no. 4 (2011): 455–62.
+Sulkowski, Christina M., Kelly M. Gilkey, et al. "{{% resource_link "24a7b6a5-47e2-4f16-a756-793908b1039b" "An Extravehicular Suit Impact Load Attenuation Study to Improve Astronaut Bone Fracture Prediction" %}}." _Aviation, Space, and Environmental Medicine_ 82, no. 4 (2011): 455–62.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ Sulkowski, Christina M., Kelly M. Gilkey, et al. "[An Extravehicular Suit Impact
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Zoss, Adam B., H. Kazerooni, et al. "[Biomechanical Design of the Berkeley Lower Extremity Exoskeleton (BLEEX)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1618670)." _IEEE/ASME Transactions on Mechatronics_ 11, no. 2 (2006): 128–38.
+Zoss, Adam B., H. Kazerooni, et al. "{{% resource_link "9402be72-31bc-4744-aa9c-4abcfca35953" "Biomechanical Design of the Berkeley Lower Extremity Exoskeleton (BLEEX)" %}}." _IEEE/ASME Transactions on Mechatronics_ 11, no. 2 (2006): 128–38.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ Zoss, Adam B., H. Kazerooni, et al. "[Biomechanical Design of the Berkeley Lower
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Parasuraman, Raja, Thomas B. Sheridan, et al. "[A Model for Types and Levels of Human Interaction with Automation](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=844354)." _IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans_ 30, no. 3 (2000): 286–97.
+Parasuraman, Raja, Thomas B. Sheridan, et al. "{{% resource_link "b1089a27-5279-4403-9e72-7f152a36f3e6" "A Model for Types and Levels of Human Interaction with Automation" %}}." _IEEE Transactions on Systems, Man, and Cybernetics—Part A: Systems and Humans_ 30, no. 3 (2000): 286–97.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +117,7 @@ Di Nocera, Francesco, Bernd Lovenz, and Raja Parasuraman. "Consequences of Shift
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Wilson, Glenn F., and Christopher A. Russell. "[Performance Enhancement in an Uninhabited Air Vehicle Task Using Psychophysiologically Determined Adaptive Aiding](http://www.ncbi.nlm.nih.gov/pubmed/18074700)." _Human Factors_ 49, no. 6 (2007): 1005–18.
+Wilson, Glenn F., and Christopher A. Russell. "{{% resource_link "c1e5ab70-ef68-4bd8-843e-32a47a0d624a" "Performance Enhancement in an Uninhabited Air Vehicle Task Using Psychophysiologically Determined Adaptive Aiding" %}}." _Human Factors_ 49, no. 6 (2007): 1005–18.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ Wilson, Glenn F., and Christopher A. Russell. "[Performance Enhancement in an Un
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Mader, Thomas H., C. Robert Gibson, et al. "[Optic Disc Edema, Globe Flattening, Choroidal Folds, and Hyperopic Shifts Observed in Astronauts after Long-duration Space Flight](http://www.ncbi.nlm.nih.gov/pubmed/21849212)." _Ophthalmology_ 118, no. 10 (2011): 2058–69.
+Mader, Thomas H., C. Robert Gibson, et al. "{{% resource_link "1bf93b47-d1d7-43b6-ab40-58ac4d4af7c9" "Optic Disc Edema, Globe Flattening, Choroidal Folds, and Hyperopic Shifts Observed in Astronauts after Long-duration Space Flight" %}}." _Ophthalmology_ 118, no. 10 (2011): 2058–69.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Mader, Thomas H., C. Robert Gibson, et al. "[Optic Disc Edema, Globe Flattening,
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Querfurth, Henry W., Philip Lieberman, et al. "[Ophthalmodynamometry for ICP Prediction and Pilot Test on Mt. Everest](http://www.biomedcentral.com/1471-2377/10/106)." _BMC Neurology_ 10 (2010): 106.
+Querfurth, Henry W., Philip Lieberman, et al. "{{% resource_link "16e6fed8-55fc-4c1d-a964-35b1043d523e" "Ophthalmodynamometry for ICP Prediction and Pilot Test on Mt. Everest" %}}." _BMC Neurology_ 10 (2010): 106.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +150,7 @@ Querfurth, Henry W., Philip Lieberman, et al. "[Ophthalmodynamometry for ICP Pre
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Strumwasser, Aaron, Rita O. Kwan, et al. ["Sonographic Optic Nerve Sheath Diameter as an Estimate of Intracranial Pressure in Adult Trauma.](http://dx.doi.org/10.1016/j.jss.2011.03.009)" _Journal of Surgical Research_ 170, no. 2 (2011): 265–71.
+Strumwasser, Aaron, Rita O. Kwan, et al. {{% resource_link "5218ed3c-809c-4056-8c7e-38bbb17c8983" "\"Sonographic Optic Nerve Sheath Diameter as an Estimate of Intracranial Pressure in Adult Trauma." %}}" _Journal of Surgical Research_ 170, no. 2 (2011): 265–71.
 {{< tdclose >}}
 
 {{< trclose >}}
